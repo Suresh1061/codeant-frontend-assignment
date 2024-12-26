@@ -35,6 +35,7 @@ The primary objective is to accurately develop the frontend layout and functiona
 1. Clone the repository:
    ```bash
    git clone https://github.com/Suresh1061/codeant-frontend-assignment.git
+   cd codeant-frontend-assignment
    ```
 
 2. Install dependencies:
